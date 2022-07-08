@@ -1,2 +1,2 @@
-# fmriprep_QC_MGH
-Quality control script for NICC Lab at MGH.
+Created by Ryan Cali
+MRI QC script for MGH NICC Lab.
